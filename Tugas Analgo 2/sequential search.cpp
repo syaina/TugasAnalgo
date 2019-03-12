@@ -4,8 +4,6 @@
 	Nama Program	: Sequencial Search
 */
 
-**************/
-
 #include <iostream>
 using namespace std;
 
